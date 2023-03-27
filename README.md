@@ -3,8 +3,8 @@
 ### Some problems solved uisng **Recursion**.
 
 * ### **TOOLS ⚙️**
-   * **JS ![](images/javascript.png)**
-   * **Visual Studio Code ![](images/vs.png)**
+   * **JS ![](javascript.png)**
+   * **Visual Studio Code ![](vs.png)**
 
 
 
