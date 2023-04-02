@@ -1,7 +1,6 @@
 # Problem-solving
 
-### Some problems solved uisng **Recursion**.
-
+### Some problems with Recursion and data structure (Stack and Queue).
 * ### **TOOLS ⚙️**
    * **JS ![](javascript.png)**
    * **Visual Studio Code ![](vs.png)**
